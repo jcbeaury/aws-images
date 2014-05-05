@@ -5013,7 +5013,7 @@ aside section {
     margin-bottom: 3px;
     margin-top: 0px; }
 
-.gravatar {
+.user-image {
   float: left;
   margin-right: 10px; }
 
@@ -5036,7 +5036,7 @@ aside section {
 .user_avatars {
   overflow: auto;
   margin-top: 10px; }
-  .user_avatars .gravatar {
+  .user_avatars .user-image {
     margin: 1px 1px; }
 
 /* forms */
@@ -5082,7 +5082,7 @@ input {
 .timestamp {
   color: #999999; }
 
-.gravatar {
+.user-image {
   float: left;
   margin-right: 10px; }
 

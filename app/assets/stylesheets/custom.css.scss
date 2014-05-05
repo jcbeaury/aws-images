@@ -142,7 +142,7 @@ aside {
   }
 }
 
-.gravatar {
+.user-image {
   float: left;
   margin-right: 10px;
 }
@@ -171,7 +171,7 @@ aside {
 .user_avatars {
   overflow: auto;
   margin-top: 10px;
-  .gravatar {
+  .user-image {
     margin: 1px 1px;
   }
 }
@@ -234,7 +234,7 @@ input {
 .timestamp {
   color: $grayLight;
 }
-.gravatar {
+.user-image {
   float: left;
   margin-right: 10px;
 }
