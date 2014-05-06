@@ -20,3 +20,6 @@ doc/
 .rvmrc
 .ruby-*
 .secret
+
+# Ignore file with S3 info
+/config/initializers/carrierwave.rb
